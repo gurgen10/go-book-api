@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"fmt"
-	"go/models"
+	"m/models"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

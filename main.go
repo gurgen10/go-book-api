@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go/controllers"
-	"go/models"
+	"m/controllers"
+	"m/models"
 
 	"github.com/gin-gonic/gin"
 	_ "github.com/jinzhu/gorm/dialects/postgres"
